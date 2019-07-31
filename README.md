@@ -1,6 +1,4 @@
-# Syllable Razzle Strapi Stack
-
-- Full tutorial available: https://blog.strapi.io/strapi-next-setup/
+# Syllable Razzle Strapi API
 
 > In this application you will see how to
 
@@ -12,7 +10,7 @@
 **1 —** Clone the repository.
 
 ```bash
-git clone git@github.com:syllable-hq/syllable-razzle-strapi.git
+git clone git@github.com:syllable-hq/syllable-razzle-strapi-api.git
 ```
 
 **2 —** Install and run MYSQL.
@@ -30,22 +28,6 @@ npm install && npm start
 **4 —** Update permissions.
 
 You have to go in your admin panel and update permission of the `Authenticated` role (Plugins > Users & Permissions > Authenticated).
-
-## CLIENT
-
-**5 -** Install razzle generator.
-
-```bash
-npm install -g razzle
-```
-
-**6 —** Go to the `frontend` folder, install the dependencies and start CLIENT.
-
-```bash
-cd frontend
-npm install && npm start
-# It take few minutes
-```
 
 ## Bootstrap application data
 
