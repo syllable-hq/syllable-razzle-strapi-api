@@ -30,7 +30,7 @@
     "strapi-plugin-upload": "3.0.0-beta.13",
     "strapi-hook-bookshelf": "3.0.0-beta.13",
     "strapi-hook-knex": "3.0.0-beta.13",
-    "knex": "0.19.1",
+    "knex": "2.3.0",
     "mysql": "2.17.1"
   },
   "author": {
